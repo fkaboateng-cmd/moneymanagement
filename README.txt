@@ -1,1 +1,1 @@
-Open index.html in a modern browser. Click Load attached September statement. The app stores data locally in the browser. Internal transfers are excluded from spending. Review classification and tax flags before using totals for tax preparation.
+Open index.html. Click Load statements to choose one or more CSV or TXT statement exports. Expected columns: Date, Description/Merchant, Amount, with optional Balance, Type, and Category. Data is stored locally in the browser. PDF loading requires a PDF text extraction library and is not included in this browser-only build.
